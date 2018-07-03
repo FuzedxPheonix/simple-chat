@@ -14,4 +14,4 @@
 ###07/01/2018
 - Found a more useful place for building a chatbox 
 - [Better Guide to buld chat box](https://www.youtube.com/watch?v=K2hFNFN9lRc&index=2&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j)
-- 
+- If you want to download data here is a good link [Reddit Data](http://files.pushshift.io/reddit/comments/)
